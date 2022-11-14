@@ -32,7 +32,8 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"magicstack.edgedb"
+				"magicstack.edgedb",
+				"Vue.volar"
 			]
 		}
 	},
